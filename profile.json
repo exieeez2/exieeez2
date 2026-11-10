@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "login": "exieeez2",
+  "seed": "#3DAA6B",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm exieeez",
+    "name": "exieeez",
+    "subtitle": "Cybersecurity student & Rust enthusiast. Breaking things to make them safer",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Kyiv"
+      },
+      {
+        "icon": "code",
+        "label": "Rust • Python "
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      },
+      {
+        "icon": "code",
+        "label": "open source"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript "
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "pixel-garden",
+      "tiny-weather",
+      "echo-bot",
+      "dotfiles"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/RealLinux n"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.gg/erVwbmYE"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://github.com/exieeez2"
+      },
+      {
+        "icon": "brand:gitlab",
+        "url": "https://gitlab.com/exieeez"
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/rizemusic"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "music_cast",
+        "label": "RIZE",
+        "url": "https://raze.pp.ua",
+        "style": "filled"
+      },
+      {
+        "icon": "movie",
+        "label": "HAZE",
+        "url": "https://hazefilm.pp.ua",
+        "style": "tonal"
+      }
+    ]
+  }
+}
