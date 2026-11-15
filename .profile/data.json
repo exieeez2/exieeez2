@@ -1,10 +1,35 @@
 {
- "key": "3d7300b",
+ "key": "c97a0b91",
  "stars": 0,
- "contributions": 8,
- "repos": 3,
+ "contributions": 15,
+ "repos": 4,
  "followers": 1,
- "languages": [],
+ "languages": [
+  [
+   "HTML",
+   3196243
+  ],
+  [
+   "JavaScript",
+   2676842
+  ],
+  [
+   "Kotlin",
+   1435451
+  ],
+  [
+   "CSS",
+   817326
+  ],
+  [
+   "Rust",
+   153158
+  ],
+  [
+   "Python",
+   87444
+  ]
+ ],
  "days": [
   [
    {
@@ -82,7 +107,7 @@
   ],
   [
    {
-    "c": 2,
+    "c": 9,
     "day": 15,
     "today": true
    },
@@ -101,13 +126,33 @@
  "pins": [],
  "all": [
   {
+   "name": "rize_website",
+   "url": "https://github.com/exieeez2/rize_website",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
    "name": "RIZE",
    "url": "https://github.com/exieeez2/RIZE",
    "text": "Ultra-fast open-source music streaming client powered by Rust (Tauri 2) & Kotlin (Jetpack Compose). Zero ads, synced lyrics, DSP audio effects & offline mode.",
    "fork": false,
    "stars": 0,
-   "language": null,
-   "topics": []
+   "language": "JavaScript",
+   "topics": [
+    "android",
+    "audio",
+    "desktop-app",
+    "hacktoberfest",
+    "jetpack-compose",
+    "lyrics",
+    "music-player",
+    "open-source",
+    "rust",
+    "streaming"
+   ]
   },
   {
    "name": "exieeez2",
