@@ -1,6 +1,6 @@
 {
- "key": "8e16e4df",
- "stars": 3,
+ "key": "ec68fee1",
+ "stars": 4,
  "contributions": 15,
  "repos": 3,
  "followers": 1,
@@ -118,7 +118,7 @@
    "url": "https://github.com/exieeez2/RIZE",
    "text": "Ultra-fast open-source music streaming client powered by Rust (Tauri 2) & Kotlin (Jetpack Compose). Zero ads, synced lyrics, DSP audio effects & offline mode.",
    "fork": false,
-   "stars": 3,
+   "stars": 4,
    "language": "Rust",
    "topics": [
     "android",
