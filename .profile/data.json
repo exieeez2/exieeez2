@@ -1,5 +1,5 @@
 {
- "key": "ec68fee1",
+ "key": "47caf800",
  "stars": 4,
  "contributions": 15,
  "repos": 3,
@@ -98,9 +98,13 @@
    {
     "c": 2,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
