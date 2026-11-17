@@ -1,17 +1,21 @@
 {
- "key": "47caf800",
+ "key": "82005a64",
  "stars": 4,
- "contributions": 15,
- "repos": 3,
+ "contributions": 16,
+ "repos": 4,
  "followers": 1,
  "languages": [
   [
    "Rust",
-   2018097
+   2255807
   ],
   [
    "Kotlin",
    1461565
+  ],
+  [
+   "HTML",
+   138131
   ]
  ],
  "days": [
@@ -101,7 +105,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 17,
     "today": true
    },
@@ -112,8 +116,8 @@
   ]
  ],
  "streak": {
-  "current": 2,
-  "longest": 2
+  "current": 3,
+  "longest": 3
  },
  "pins": [],
  "all": [
@@ -136,6 +140,15 @@
     "rust",
     "streaming"
    ]
+  },
+  {
+   "name": "ferro-browser",
+   "url": "https://github.com/exieeez2/ferro-browser",
+   "text": "Ferro — Fast customizable desktop web browser in Rust (wry + WebKitGTK + GTK3)",
+   "fork": false,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
   },
   {
    "name": "exieeez2",
